@@ -1,8 +1,8 @@
 import { ArrowPathIcon, CloudArrowUpIcon, FingerPrintIcon, LockClosedIcon } from '@heroicons/vue/24/outline'
 
 export default defineAppConfig({
-  title: 'Nuxt Tailwind Kit',
-  description: 'Beautifully designed, fully featured, and ready to go starter kit for Nuxt 3 and Tailwind CSS.',
+  title: 'home header ',
+  description: 'isinya disini',
   features: [
     {
       name: 'Nuxt 3',

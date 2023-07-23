@@ -14,7 +14,7 @@ defineProps<{
     <div class="container mx-auto lg:text-center">
       <div class="max-w-4xl mx-auto">
         <h2 class="text-3xl font-bold text-blue-600">
-          {{ title }}
+          {{ title }} aavv
         </h2>
         <p class="mt-4 text-gray-600 leading-6">
           {{ description }}

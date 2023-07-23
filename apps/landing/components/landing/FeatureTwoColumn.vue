@@ -9,7 +9,7 @@ const appConfig = useAppConfig()
         <div class="lg:pr-8 lg:pt-4">
           <div class="lg:max-w-lg">
             <h2 class="text-lg font-semibold leading-8 tracking-tight text-indigo-600">
-              {{ appConfig.feature.title }}
+              {{ appConfig.feature.title }} bbb
             </h2>
             <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
               {{ appConfig.feature.subtitle }}
